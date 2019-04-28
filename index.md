@@ -13,6 +13,8 @@ For more details see [My Resume](https://docs.github.com/en/github/writing-on-gi
 ### My Works
 
 * WeChat Official Account. please. see [this is a link](https://www.baidu.com/)
+* My E-Book
+  * Introduction to algorithms. please see [Basic Algorithms](https://algorithm.ylcoder.top/)
   
 ### Contact
 
