@@ -97,7 +97,7 @@ body {
 .container {
     /*width: 90%;*/
     max-width: 1000px;
-    margin-top: 30px;
+    margin: 0 auto
 }
 
 section {
@@ -149,6 +149,10 @@ header h2 {
     font-size: 18px;
     font-weight: 300;
     color: #666
+}
+
+#downloads {
+    margin-top: 30px;
 }
 
 #downloads .btn {
