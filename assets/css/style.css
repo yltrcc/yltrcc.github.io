@@ -95,7 +95,7 @@ body {
 }
 
 .container {
-    width: 90%;
+    /*width: 90%;*/
     max-width: 1000px;
     margin: 0 auto
 }
@@ -116,7 +116,7 @@ li {
 }
 
 header {
-    /*background: rgba(0, 0, 0, 0.1);*/
+    background: #f1f5f8;
     width: 100%;
     border-bottom: 1px dashed #85ab3d;
     padding: 20px 0;
