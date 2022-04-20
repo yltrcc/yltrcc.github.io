@@ -17,6 +17,7 @@ For more details see [My Resume](https://docs.github.com/en/github/writing-on-gi
 * WeChat Official Account. please. see [this is a link](https://www.baidu.com/)
 * My E-Book
   * Introduction to algorithms. please see [Basic Algorithms](https://algorithm.ylcoder.top/)
+* My Wiki. see [My Wiki](https://yltrcc.github.io/vuepress-starter/)
   
 ### Contact
 
